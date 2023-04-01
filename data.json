@@ -1,0 +1,53 @@
+[
+    {
+        "views": "0",
+        "monthly": 0,
+        "yearly": 0
+    },
+    {
+        "views": "25",
+        "monthly": 5.00,
+        "yearly": 50.00
+    },
+    {
+        "views": "50",
+        "monthly": 8.00,
+        "yearly": 80.00
+
+    },
+    {
+        "views": "75",
+        "monthly": 12.00,
+        "yearly": 120.00
+
+    },
+    {
+        "views": "100",
+        "monthly": 16.00,
+        "yearly": 160.00
+
+    },
+    {
+        "views": "125",
+        "monthly": 18.00,
+        "yearly": 180.00
+
+    },
+    {
+        "views": "150",
+        "monthly": 20.00,
+        "yearly": 200.00
+
+    },
+    {
+        "views": "175",
+        "monthly": 22.00,
+        "yearly": 220.00
+
+    },
+    {
+        "views": "200",
+        "monthly": 24.00,
+        "yearly": 240.00
+    }
+]
